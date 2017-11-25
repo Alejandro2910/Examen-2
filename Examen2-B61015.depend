@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1511630941 source:c:\users\b61015\desktop\examen2\examen2-b61015\main.cpp
+	<iostream>
+	<vector>
+	<ostream>
+	<fstream>
+	<sstream>
+	"Baraja.h"
+	"Numerica.h"
+	"Literal.h"
+
+1511630284 source:c:\users\b61015\desktop\examen2\examen2-b61015\src\baraja.cpp
+	"Baraja.h"
+
+1511630147 c:\users\b61015\desktop\examen2\examen2-b61015\include\baraja.h
+	<vector>
+	<string>
+	<sstream>
+
+1511630952 source:c:\users\b61015\desktop\examen2\examen2-b61015\src\literal.cpp
+	"Literal.h"
+
+1511630941 c:\users\b61015\desktop\examen2\examen2-b61015\include\literal.h
+	"Baraja.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<sstream>
+
+1511630495 source:c:\users\b61015\desktop\examen2\examen2-b61015\src\numerica.cpp
+	"Numerica.h"
+
+1511630331 c:\users\b61015\desktop\examen2\examen2-b61015\include\numerica.h
+	<string>
+	"Baraja.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<sstream>
+
